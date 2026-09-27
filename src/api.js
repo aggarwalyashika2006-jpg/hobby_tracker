@@ -6,7 +6,7 @@
 // frontend and our FastAPI backend.
 //
 // FastAPI currently runs locally at:
-// http://127.0.0.1:8000
+// https://hobby-tracker-d8ol.onrender.com
 //
 // Later, when we deploy FastAPI on Render, we will change
 // the API URL to the Render backend URL.
@@ -18,7 +18,7 @@
 // BACKEND URL
 // ============================================================
 
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://hobby-tracker-d8ol.onrender.com";
 
 
 // ============================================================
